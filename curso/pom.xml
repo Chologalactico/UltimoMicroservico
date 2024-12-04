@@ -8,7 +8,7 @@
 		<version>3.1.4</version> <!-- Cambiado para compatibilidad -->
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.co.Diaz</groupId>
+	<groupId>com.co.castro</groupId>
 	<artifactId>MicroserviciosCurso</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MicroservicioCursos</name>

@@ -1,13 +1,13 @@
-package rico.example.curso;
+package com.castro.usuario;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CursoApplicationTests {
+class UsuarioApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
